@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@import url(geral.css);
 
 main div.banner {
     max-height: 500px;
